@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collection;
 
 
-//The second partof my homework. Create an analogue ArrayList.
+//The second part of my homework. Create an analogue ArrayList.
 
 
 public class MyArrayList<T> {
